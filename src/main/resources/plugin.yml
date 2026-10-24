@@ -1,0 +1,11 @@
+name: SimpleBounty
+version: 1.0
+main: com.tuusuario.bountyplugin.BountyPlugin
+api-version: 1.16
+authors: [TuNombre]
+description: Plugin de recompensa por cabeza.
+
+commands:
+  bounty:
+    description: Sistema de recompensa por cabeza.
+    usage: /bounty <jugador> <monto> | /bounty check <jugador>
