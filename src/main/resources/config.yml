@@ -1,0 +1,6 @@
+# Comando que ejecuta la consola para dar el dinero al asesino (usa %player% y %amount%)
+# Si usas Essentials / Vault puede ser "eco give %player% %amount%"
+# Si no usas plugin de economía, pon "xp add %player% %amount% levels"
+reward-command: "eco give %player% %amount%"
+
+min-bounty: 100
